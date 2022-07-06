@@ -12,10 +12,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94729352830']
-global.premium = ['94729352830']
-global.ownernomer = '94729352830'
-global.ownername = 'ШHłТΞ HΛϾКΞЯS'
+global.owner = ['94765790933']
+global.premium = ['94765790933']
+global.ownernomer = '94765790933'
+global.ownername = '༇༃⭕(᳆⃞ʀͥᴇᷧᴀͫʟ⃞🔱සතා"⃟හ්'
 global.botname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
 global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
 global.ig = 'https://github.com/KING-BOT-OFFICIAL'
